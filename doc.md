@@ -140,7 +140,7 @@ WHERE status = 'active' AND quantity <= filled_quantity;
 
 > Marks fully filled orders as ready for async fulfillment.
 
-## 6. Implementation & Trade-offs
+## 6. Implementation
 
 ### Stack Used
 
