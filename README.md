@@ -85,4 +85,3 @@ You’ll observe that the **original ask** is now **partially filled**, with **2
 |── docker-compose.yml        # Docker orchestration
 
 ```
-# misprint-order_book_matching_engine
